@@ -9,22 +9,22 @@ Parchment mappings are provided in [three flavors][exports-info], but most users
 
 The latest version of the release export for a particular Minecraft version can be found in the version badges, which are present in the README of each branch on the repository (such as for the [1.17 branch][1.17-branch]). For convenience, the following table shows the latest versions of the most common Minecraft versions:
 
-| Minecraft Version |                                                                                                                            Mappings Version                                                                                                                            |
-|:-----------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|    **1.21.4**     | ![Latest release version badge for 1.21.4](https://img.shields.io/maven-metadata/v?color=forestgreen&label=release&metadataUrl=https%3A%2F%2Fldtteam.jfrog.io%2Fartifactory%2Fparchmentmc-internal%2Forg%2Fparchmentmc%2Fdata%2Fparchment-1.21.4%2Fmaven-metadata.xml) |
-|    **1.21.3**     | ![Latest release version badge for 1.21.3](https://img.shields.io/maven-metadata/v?color=forestgreen&label=release&metadataUrl=https%3A%2F%2Fldtteam.jfrog.io%2Fartifactory%2Fparchmentmc-internal%2Forg%2Fparchmentmc%2Fdata%2Fparchment-1.21.3%2Fmaven-metadata.xml) |
-|    **1.21.1**     | ![Latest release version badge for 1.21.1](https://img.shields.io/maven-metadata/v?color=forestgreen&label=release&metadataUrl=https%3A%2F%2Fldtteam.jfrog.io%2Fartifactory%2Fparchmentmc-internal%2Forg%2Fparchmentmc%2Fdata%2Fparchment-1.21.1%2Fmaven-metadata.xml) |
-|    **1.20.6**     | ![Latest release version badge for 1.20.6](https://img.shields.io/maven-metadata/v?color=forestgreen&label=release&metadataUrl=https%3A%2F%2Fldtteam.jfrog.io%2Fartifactory%2Fparchmentmc-internal%2Forg%2Fparchmentmc%2Fdata%2Fparchment-1.20.6%2Fmaven-metadata.xml) |
-|    **1.20.4**     | ![Latest release version badge for 1.20.4](https://img.shields.io/maven-metadata/v?color=forestgreen&label=release&metadataUrl=https%3A%2F%2Fldtteam.jfrog.io%2Fartifactory%2Fparchmentmc-internal%2Forg%2Fparchmentmc%2Fdata%2Fparchment-1.20.4%2Fmaven-metadata.xml) |
-|    **1.20.3**     | ![Latest release version badge for 1.20.3](https://img.shields.io/maven-metadata/v?color=forestgreen&label=release&metadataUrl=https%3A%2F%2Fldtteam.jfrog.io%2Fartifactory%2Fparchmentmc-internal%2Forg%2Fparchmentmc%2Fdata%2Fparchment-1.20.3%2Fmaven-metadata.xml) |
-|    **1.20.2**     | ![Latest release version badge for 1.20.2](https://img.shields.io/maven-metadata/v?color=forestgreen&label=release&metadataUrl=https%3A%2F%2Fldtteam.jfrog.io%2Fartifactory%2Fparchmentmc-internal%2Forg%2Fparchmentmc%2Fdata%2Fparchment-1.20.2%2Fmaven-metadata.xml) |
-|    **1.20.1**     | ![Latest release version badge for 1.20.1](https://img.shields.io/maven-metadata/v?color=forestgreen&label=release&metadataUrl=https%3A%2F%2Fldtteam.jfrog.io%2Fartifactory%2Fparchmentmc-internal%2Forg%2Fparchmentmc%2Fdata%2Fparchment-1.20.1%2Fmaven-metadata.xml) |
-|    **1.19.4**     | ![Latest release version badge for 1.19.4](https://img.shields.io/maven-metadata/v?color=forestgreen&label=release&metadataUrl=https%3A%2F%2Fldtteam.jfrog.io%2Fartifactory%2Fparchmentmc-internal%2Forg%2Fparchmentmc%2Fdata%2Fparchment-1.19.4%2Fmaven-metadata.xml) |
-|    **1.19.3**     | ![Latest release version badge for 1.19.3](https://img.shields.io/maven-metadata/v?color=forestgreen&label=release&metadataUrl=https%3A%2F%2Fldtteam.jfrog.io%2Fartifactory%2Fparchmentmc-internal%2Forg%2Fparchmentmc%2Fdata%2Fparchment-1.19.3%2Fmaven-metadata.xml) |
-|    **1.19.2**     | ![Latest release version badge for 1.19.2](https://img.shields.io/maven-metadata/v?color=forestgreen&label=release&metadataUrl=https%3A%2F%2Fldtteam.jfrog.io%2Fartifactory%2Fparchmentmc-internal%2Forg%2Fparchmentmc%2Fdata%2Fparchment-1.19.2%2Fmaven-metadata.xml) |
-|    **1.18.2**     | ![Latest release version badge for 1.18.2](https://img.shields.io/maven-metadata/v?color=forestgreen&label=release&metadataUrl=https%3A%2F%2Fldtteam.jfrog.io%2Fartifactory%2Fparchmentmc-internal%2Forg%2Fparchmentmc%2Fdata%2Fparchment-1.18.2%2Fmaven-metadata.xml) |
-|    **1.17.1**     | ![Latest release version badge for 1.17.1](https://img.shields.io/maven-metadata/v?color=forestgreen&label=release&metadataUrl=https%3A%2F%2Fldtteam.jfrog.io%2Fartifactory%2Fparchmentmc-internal%2Forg%2Fparchmentmc%2Fdata%2Fparchment-1.17.1%2Fmaven-metadata.xml) |
-|    **1.16.5**     | ![Latest release version badge for 1.16.5](https://img.shields.io/maven-metadata/v?color=forestgreen&label=release&metadataUrl=https%3A%2F%2Fldtteam.jfrog.io%2Fartifactory%2Fparchmentmc-internal%2Forg%2Fparchmentmc%2Fdata%2Fparchment-1.16.5%2Fmaven-metadata.xml) |
+| Minecraft Version |                    Mappings Version                    |
+|:-----------------:|:------------------------------------------------------:|
+|    **1.21.4**     | <span class="maven-metadata-value" id="1.21.4"></span> |
+|    **1.21.3**     | <span class="maven-metadata-value" id="1.21.3"></span> |
+|    **1.21.1**     | <span class="maven-metadata-value" id="1.21.1"></span> |
+|    **1.20.6**     | <span class="maven-metadata-value" id="1.20.6"></span> |
+|    **1.20.4**     | <span class="maven-metadata-value" id="1.20.4"></span> |
+|    **1.20.3**     | <span class="maven-metadata-value" id="1.20.3"></span> |
+|    **1.20.2**     | <span class="maven-metadata-value" id="1.20.2"></span> |
+|    **1.20.1**     | <span class="maven-metadata-value" id="1.20.1"></span> |
+|    **1.19.4**     | <span class="maven-metadata-value" id="1.19.4"></span> |
+|    **1.19.3**     | <span class="maven-metadata-value" id="1.19.3"></span> |
+|    **1.19.2**     | <span class="maven-metadata-value" id="1.19.2"></span> |
+|    **1.18.2**     | <span class="maven-metadata-value" id="1.18.2"></span> |
+|    **1.17.1**     | <span class="maven-metadata-value" id="1.17.1"></span> |
+|    **1.16.5**     | <span class="maven-metadata-value" id="1.16.5"></span> |
 {:style="margin: auto"}
 
 When selecting the Parchment mappings version from the version badges above or in the README, please remove the `v` prefix before inserting it into your buildscript.
@@ -157,6 +157,8 @@ ParchmentMC provides the [**Librarian**](https://github.com/ParchmentMC/Libraria
 [1.17-branch]: https://github.com/ParchmentMC/Parchment/tree/versions/1.17.x
 [exports-info]: /docs/maven#parchment-exports
 
+<script src="{{ base.url | prepend: site.url }}/assets/js/maven-metadata-reader.js"></script>
+
 <style>
 
 .version u {
@@ -188,4 +190,11 @@ ParchmentMC provides the [**Librarian**](https://github.com/ParchmentMC/Libraria
     margin-left: -0.55rem;
 }
 
+/* Code */
+.maven-metadata-value {
+    font-family: monospace;
+    font-size: 0.9em;
+}
+
 </style>
+
